@@ -11,5 +11,13 @@
     "JS"
   ],
   "author": "Pawan Vig",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PawanAtCentennial/COMP308-w2017-Lesson1B.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PawanAtCentennial/COMP308-w2017-Lesson1B/issues"
+  },
+  "homepage": "https://github.com/PawanAtCentennial/COMP308-w2017-Lesson1B#readme"
 }
